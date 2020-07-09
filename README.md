@@ -2,5 +2,5 @@
 
 ## Objetivos:	
 
-- Hacer cositas lindas en python
+- Hacer cositas lindas en python... be happy
 
